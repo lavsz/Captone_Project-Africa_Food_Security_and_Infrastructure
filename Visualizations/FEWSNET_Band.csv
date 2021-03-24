@@ -1,0 +1,17 @@
+Band_Name,Unit,Description,Column_stats
+Evap_tavg,kg m-2 s-1,Evapotranspiration,Evap_tavg_std
+Lwnet_tavg,W m-2,Net longwave radiation flux,Lwnet_tavg_std
+Qair_f_tavg,kg kg-1,Specific humidity,Qair_f_tavg_std
+Qh_tavg,W m-2,Sensible heat net flux,Qh_tavg_std
+Qle_tavg,W m-2,Latent heat net flux,Qle_tavg_std
+Qs_tavg,kg m-2 s-1,Storm surface runoff,Qs_tavg_std
+Qsb_tavg,kg m-2 s-1,Baseflow-groundwater runoff,Qsb_tavg_std
+RadT_tavg,K,Surface radiative temperature,RadT_tavg_std
+Rainf_f_tavg,kg m-2 s-1,Total precipitation rate,Rainf_f_tavg_std
+SoilMoi00_10cm_tavg,m^3 m-3,Soil moisture (0 - 10 cm underground),SoilMoi00_10cm_tavg_std
+SoilMoi10_40cm_tavg,m^3 m-3,Soil moisture (10 - 40 cm underground),SoilMoi10_40cm_tavg_std
+SoilTemp00_10cm_tavg,K,Soil temperature (0 - 10 cm underground),SoilTemp00_10cm_tavg_std
+SoilTemp10_40cm_tavg,K,Soil temperature (10 - 40 cm underground),SoilTemp10_40cm_tavg_std
+Swnet_tavg,W m-2,Net shortwave radiation flux,Swnet_tavg_std
+Tair_f_tavg,K,Near surface air temperature,Tair_f_tavg_std
+Wind_f_tavg,m s-1,Near surface wind speed,Wind_f_tavg_std
