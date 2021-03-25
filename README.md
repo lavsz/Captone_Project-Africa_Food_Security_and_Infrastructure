@@ -1,6 +1,7 @@
-# Project: Africa Sustainable Development and Food Security
+# Project: Africa Development Potentials and Food Security
 The year of Covid-19 strengthens more about Sustainability Development worldwide and disease spreading prevention made people start to think more about food security. 
 
+## Overview
 This project cooks a two-course meal:
 
 1. A new evaluation method for infrastructure development potential
@@ -11,5 +12,6 @@ This project cooks a two-course meal:
 
 **The second course**: aims to built a classification model that can identifies areas with higher food security concerns. 
 
+## First course: developemnt potentials evaluation
 
-
+## Seconrd course: Food Security Machine Learning model
