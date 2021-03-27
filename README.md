@@ -12,6 +12,6 @@ This project cooks a two-course meal:
 
 **The second course**: aims to built a classification model that can identifies areas with higher food security concerns. 
 
-## First course: developemnt potentials evaluation
+## First Course: Developemnt Potentials Evaluation
 
-## Seconrd course: Food Security Machine Learning model
+## Seconrd Course: Food Security Machine Learning Model
