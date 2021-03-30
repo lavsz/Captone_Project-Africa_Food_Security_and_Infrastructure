@@ -15,4 +15,4 @@ This project cooks a two-course meal:
 ## First Course: Food Security Machine Learning Model
 
 
-## Second Course: Developemnt Potentials Evaluation
+## Second Course: Development Potentials Evaluation
