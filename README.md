@@ -12,6 +12,7 @@ This project cooks a two-course meal:
 
 **The second course**: aims to look at different geophysical, accessibility, facilities, and social factors to propose a new evaluation method for development potentials in the infrastructure sector. 
 
-## First Course: Developemnt Potentials Evaluation
+## First Course: Food Security Machine Learning Model
 
-## Seconrd Course: Food Security Machine Learning Model
+
+## Second Course: Developemnt Potentials Evaluation
