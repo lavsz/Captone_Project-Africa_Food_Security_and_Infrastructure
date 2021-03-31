@@ -16,13 +16,13 @@ This project cooks a two-course meal:
 
 **How's the distribution of different food security class?**
 
-<img src = 'https://github.com/lavsz/Captone_Project-Africa_Sustainability_and_Food_Security/blob/main/Images/Screen%20Shot%202021-03-29%20at%2010.39.44%20PM.png' width="500" height="400">
+<img src = 'https://github.com/lavsz/Captone_Project-Africa_Sustainability_and_Food_Security/blob/main/Images/Screen%20Shot%202021-03-29%20at%2010.39.44%20PM.png' width="300" height="200">
 
 **How are different countries throughout the year looks like?**
-![Image2](https://github.com/lavsz/Captone_Project-Africa_Sustainability_and_Food_Security/blob/main/Images/Screen%20Shot%202021-03-30%20at%2012.56.17%20AM.png){ width=50% }
+<img src = 'https://github.com/lavsz/Captone_Project-Africa_Sustainability_and_Food_Security/blob/main/Images/Screen%20Shot%202021-03-30%20at%2012.56.17%20AM.png' width="350" height="200">
 
 **Are there many social conflict events happending?8**
-![Image3](https://github.com/lavsz/Captone_Project-Africa_Sustainability_and_Food_Security/blob/main/Images/Screen%20Shot%202021-03-29%20at%2011.40.39%20PM.png){ width=50% }
+<img src = 'https://github.com/lavsz/Captone_Project-Africa_Sustainability_and_Food_Security/blob/main/Images/Screen%20Shot%202021-03-29%20at%2011.40.39%20PM.png' width="400" height="200"> 
 
 
 ## Second Course: Development Potentials Evaluation
