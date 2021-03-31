@@ -55,20 +55,20 @@ Top 5: Number of battles, Net Primary Productivity, Net Sensible heat net flux, 
 ## Second Course: Development Potentials Evaluation
 After realizing the importance of social and infrastructure in food security, a simple dashboard has been built to demonstrate the current situation of infrastructures & potentials as well as predicting development needs in Africa. 
 
-Selected infrastructures &  status are:
+**Selected infrastructures & status are:**
 1. Accessibility to Health Facilities
 2. Ground Travel Speed (reflection for transportation quality)
 3. Nighttime Light
 4. Solar Potentials
 5. Wind Potentials
 
-Development needs are predicted:
+**Development needs are predicted:**
 1. Regional Development needs of Solar
 2. Regional Development needs of Wind
 
 The predictions are based on current production of electricity, population percentage with electricity access, and regional potentials. 
 
-Here's a brief view of the dashboard:
+Here's a look of the dashboard:
 
 <img src = 'https://github.com/lavsz/Captone_Project-Africa_Sustainability_and_Food_Security/blob/main/Images/Screen%20Shot%202021-03-30%20at%201.13.40%20AM.png' width="520" height="250">
 
