@@ -1,4 +1,6 @@
 # Project: Africa Development Potentials and Food Security
+by Shenghao (Lavender) Zhang
+
 The year of Covid-19 strengthens more about Sustainability Development worldwide and disease spreading prevention made people start to think more about food security. 
 
 ## Overview
