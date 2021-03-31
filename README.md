@@ -24,7 +24,7 @@ This project cooks a two-course meal:
 
 **Are there many social conflict events happending?8**
 
-<img src = 'https://github.com/lavsz/Captone_Project-Africa_Sustainability_and_Food_Security/blob/main/Images/Screen%20Shot%202021-03-29%20at%2011.40.39%20PM.png' width="400" height="200"> 
+<img src = 'https://github.com/lavsz/Captone_Project-Africa_Sustainability_and_Food_Security/blob/main/Images/Screen%20Shot%202021-03-29%20at%2011.40.39%20PM.png' width="420" height="200"> 
 
 
 ## Second Course: Development Potentials Evaluation
