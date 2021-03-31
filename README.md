@@ -77,7 +77,7 @@ Here's a look of the dashboard:
 2. Famine Early Warning Systems Network (FEWS NET) Land Data Assimilation System: documentation [here](https://developers.google.com/earth-engine/datasets/catalog/NASA_FLDAS_NOAH01_C_GL_M_V001)
 3. VIIRS Nighttime Day/Night Band Composites: documentation [here](https://developers.google.com/earth-engine/datasets/catalog/NOAA_VIIRS_DNB_MONTHLY_V1_VCMCFG)
 4. DMSP OLS: Nighttime Lights Time Series Version 4, Defense Meteorological Program Operational Linescan System: documentation [here](https://developers.google.com/earth-engine/datasets/catalog/NOAA_DMSP-OLS_NIGHTTIME_LIGHTS?hl=en)
-5. POR Dekadal Net Primary Production: documentation [here] (https://developers.google.com/earth-engine/datasets/catalog/FAO_WAPOR_2_L1_NPP_D?hl=en)
-6. The Armed Conflict Location & Event Data Project: documentation [here] (https://acleddata.com/#/dashboard)
+5. POR Dekadal Net Primary Production: documentation [here](https://developers.google.com/earth-engine/datasets/catalog/FAO_WAPOR_2_L1_NPP_D?hl=en)
+6. The Armed Conflict Location & Event Data Project: documentation [here](https://acleddata.com/#/dashboard)
 
 
