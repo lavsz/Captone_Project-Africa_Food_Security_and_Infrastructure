@@ -24,7 +24,7 @@ This project cooks a two-course meal:
 
 <img src = 'https://github.com/lavsz/Captone_Project-Africa_Sustainability_and_Food_Security/blob/main/Images/Screen%20Shot%202021-03-30%20at%2012.56.17%20AM.png' width="450" height="250">
 
-Note: Madagascar was note evaluated for 2010 to 2015. 
+Note: Madagascar was not evaluated from 2010 to 2015. 
 
 **Are there many social conflict events happening?**
 
@@ -86,5 +86,4 @@ Here's a look of the dashboard:
 6. The Armed Conflict Location & Event Data Project: documentation [here](https://acleddata.com/#/dashboard)
 7. BP Statistical Review of World Energy: documentation [here](https://github.com/owid/energy-data)
 8. The World Bank: data access [here](https://datacatalog.worldbank.org/search?search_api_views_fulltext_op=AND&query=electricity+percentage&nid=&sort_by=search_api_relevance&sort_by=search_api_relevance)
-9.
 
