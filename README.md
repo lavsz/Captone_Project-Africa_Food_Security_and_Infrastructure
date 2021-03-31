@@ -56,11 +56,11 @@ Top 5: Number of battles, Net Primary Productivity, Net Sensible heat net flux, 
 After realizing the importance of social and infrastructure in food security, a simple dashboard has been built to demonstrate the current situation of infrastructures & potentials as well as predicting development needs in Africa. 
 
 **Selected infrastructures & status are:**
-1. Accessibility to Health Facilities
-2. Ground Travel Speed (reflection for transportation quality)
-3. Nighttime Light
-4. Solar Potentials
-5. Wind Potentials
+1. Accessibility to Health Facilities (2019 Annual Average)
+2. Ground Travel Speed (reflection for transportation quality) (2019 Annual Average)
+3. Nighttime Light (2020 Annual Average)
+4. Solar Potentials (most recent available from Global Solar Atlas)
+5. Wind Potentials (most recent available from Global Wind Atlas)
 
 **Development needs are predicted:**
 1. Regional Development needs of Solar
