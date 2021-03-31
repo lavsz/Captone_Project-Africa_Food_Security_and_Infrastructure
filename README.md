@@ -63,14 +63,19 @@ After realizing the importance of social and infrastructure in food security, a 
 5. Wind Potentials (most recent available from Global Wind Atlas)
 
 **Development needs are predicted:**
-1. Regional Development needs of Solar
-2. Regional Development needs of Wind
+1. Development Needs of Solar, potential regional allocation
+2. Development needs of Wind, potential regional allocation
 
 The predictions are based on current production of electricity, population percentage with electricity access, and regional potentials. 
 
 Here's a look of the dashboard:
 
 <img src = 'https://github.com/lavsz/Captone_Project-Africa_Sustainability_and_Food_Security/blob/main/Images/Screen%20Shot%202021-03-30%20at%201.13.40%20AM.png' width="520" height="250">
+
+## Future Work:
+1. Continue to the explore other social and economic as well as geophysical factors that helps in predicting food security
+2. Explore and improve the dashboard with more infrastructure related data
+3. Explore and deliver new predictions on infrastructure potentials
 
 ## Data Source:
 1. Famine Early Warning Network: website access [here](https://fews.net)
@@ -79,5 +84,7 @@ Here's a look of the dashboard:
 4. DMSP OLS: Nighttime Lights Time Series Version 4, Defense Meteorological Program Operational Linescan System: documentation [here](https://developers.google.com/earth-engine/datasets/catalog/NOAA_DMSP-OLS_NIGHTTIME_LIGHTS?hl=en)
 5. POR Dekadal Net Primary Production: documentation [here](https://developers.google.com/earth-engine/datasets/catalog/FAO_WAPOR_2_L1_NPP_D?hl=en)
 6. The Armed Conflict Location & Event Data Project: documentation [here](https://acleddata.com/#/dashboard)
-
+7. BP Statistical Review of World Energy: documentation [here](https://github.com/owid/energy-data)
+8. The World Bank: data access [here](https://datacatalog.worldbank.org/search?search_api_views_fulltext_op=AND&query=electricity+percentage&nid=&sort_by=search_api_relevance&sort_by=search_api_relevance)
+9.
 
