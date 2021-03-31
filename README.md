@@ -15,7 +15,7 @@ This project cooks a two-course meal:
 ## First Course: Food Security Machine Learning Model
 
 **How's the distribution of different food security class?**
-![Image1](https://github.com/lavsz/Captone_Project-Africa_Sustainability_and_Food_Security/blob/main/Images/Screen%20Shot%202021-03-29%20at%2010.39.44%20PM.png){height=400px width=500px}
+![Image1](https://github.com/lavsz/Captone_Project-Africa_Sustainability_and_Food_Security/blob/main/Images/Screen%20Shot%202021-03-29%20at%2010.39.44%20PM.png)<img src = 'https://github.com/lavsz/Captone_Project-Africa_Sustainability_and_Food_Security/blob/main/Images/Screen%20Shot%202021-03-29%20at%2010.39.44%20PM.png' width="100" height="100">
 
 **How are different countries throughout the year looks like?**
 ![Image2](https://github.com/lavsz/Captone_Project-Africa_Sustainability_and_Food_Security/blob/main/Images/Screen%20Shot%202021-03-30%20at%2012.56.17%20AM.png){ width=50% }
