@@ -12,6 +12,7 @@ import time
 #gdf_2019 = gpd.GeoDataFrame(df_2019, 
  #               geometry=gpd.points_from_xy(df_2019.longitude, df_2019.latitude))
 
+## Source files 
 Health_acc = gpd.read_file('health.geojson')
 Speed = gpd.read_file('speed.geojson')
 Solar_raw = gpd.read_file('solar.geojson')
@@ -22,7 +23,7 @@ Solar_need_raw = gpd.read_file('solar_need.geojson')
 Solar = Solar_raw[~(Solar_raw['mean'] == 'No info')]
 Solar_need = Solar_need_raw[~(Solar_need_raw['region_MW'] == 'No info')]
 
-
+## Source field formatting
 Solar['mean_2'] = Solar['mean'].astype(float).round(2)
 Solar_need['region_MW'] = Solar_need['region_MW'].astype(float).round(2)
 Wind['mean_wind_2'] = Wind['mean_wind'].astype(float).round(2)
@@ -32,11 +33,13 @@ Speed['travelspeed_access_mean_km'] = (Speed['travelspeed_access_mean'] * 1000).
 
 
 
-
+## Streamlit Board structure
+# Main Display
 st.title('Africa Development & Potentials Map')
 st.write("This project derived the most recent data from: \n  - Google Earth Engine \n - the World Bank") 
 st.write ("Data are used to evaluate the currently development stage and future potentials in infrastructure investment. \n Click on the map to find the value.")
 
+# Sidebar and options
 add_select = st.sidebar.selectbox("Which basemap do you want?",("OpenStreetMap", "Stamen Terrain", "Stamen Toner"))
 
 select_region = st.sidebar.radio("Pick an Area:",
@@ -60,6 +63,7 @@ select_prediction = st.sidebar.radio("Pick a Prediction:",
 ("Solar Development Need", "Wind Development Need"))
 pred_list = ["Solar Development Need", "Wind Development Need"]
 
+## Visualization map function
 
 def show_maps(select_data):
     
@@ -193,6 +197,7 @@ show_maps(select_data)
 
 st.write("Are you interested in the development potential?")
 
+## Visualization pred results
 
 def show_ind(select_prediction):
     
